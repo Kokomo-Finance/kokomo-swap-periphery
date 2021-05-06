@@ -21,7 +21,7 @@ library KokomoLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'338f48bf6181ea803307863ecd3b5f87d48f469cfaf417a698b7bfb5fb266e66' // init code hash
+                hex'051502ed482945dd381ff14a9156e4601bca75e2bfbbb77271b5e469f34d4b8b' // init code hash
             ))));
     }
 

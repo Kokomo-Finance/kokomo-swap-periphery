@@ -35,10 +35,10 @@
 	},
 	"sources": {
 		"kokomo-swap-periphery/contracts/interfaces/BEP20.sol": {
-			"keccak256": "0x77050acbc6f6af791191f7d863e3957bbe9c2beac0fbe8d4003673fda80079ad",
+			"keccak256": "0x4becb8b8d48d6f04b9e3642c3d0661ed9ecc6640b5182c0830366664b5cf1318",
 			"urls": [
-				"bzz-raw://e651c1125e81318b8f62cdd94a220e58cad12d763ff8dac7bff3a6e8dc21aa5f",
-				"dweb:/ipfs/QmejrRc37CLhgTi2i9UMGfcu1nYxgHvfXMNxngrNYafjXh"
+				"bzz-raw://b31757b33d9d3cf634bb4f18dfea770c405543888b863e83589a49b7bb554176",
+				"dweb:/ipfs/QmagP3djco8beLwrfYHhjhmCPCUGuPtjCr76z8San9Dcaq"
 			]
 		}
 	},

@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"kokomo-swap-periphery/contracts/libraries/KokomoLibrary.sol": "KokomoLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 999999
+		},
+		"remappings": []
+	},
+	"sources": {
+		"kokomo-swap-periphery/contracts/interfaces/IKokomoPair.sol": {
+			"keccak256": "0xc13010c95c3de383403bc835d31b5eda92b1d8532974d40dae86f7b76c92aafe",
+			"urls": [
+				"bzz-raw://e26c769ea19c484f2e6d37d97d51ee523b074ef286a9dd1a4cb4e0648e685d07",
+				"dweb:/ipfs/QmbM7i1bmaLvThy8uLi8kCC3ioh9SfoAGW7QigSi7DDnpe"
+			]
+		},
+		"kokomo-swap-periphery/contracts/libraries/KokomoLibrary.sol": {
+			"keccak256": "0xb87e64e0af25e5dccc1e0182b39e72beee156e2ff49ed72a145a2efc5eb0bbad",
+			"urls": [
+				"bzz-raw://38aa8b1b5e6f2227e4814249cd123e0e53c9eeecb6240afc73a6cf3aa464ab07",
+				"dweb:/ipfs/QmTp9z4BD68L195EnjpmPcDNYny9cSsAL4PoRqef6GK2ih"
+			]
+		},
+		"kokomo-swap-periphery/contracts/libraries/SafeMath.sol": {
+			"keccak256": "0x27f0ea82f879b3b01387b583e6d9d0ec858dca3b22b0aad173f8fbda06e761e1",
+			"urls": [
+				"bzz-raw://0db9cf37793eb7035f0bfced36323d240f0212150009c39a3a108701d9b50b6c",
+				"dweb:/ipfs/QmUAdiG9XNcieXkKfiMB49zQqD34FbXFE15csV2KQzwEqg"
+			]
+		}
+	},
+	"version": 1
+}
